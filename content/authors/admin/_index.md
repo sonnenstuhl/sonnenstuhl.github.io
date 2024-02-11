@@ -42,20 +42,20 @@ education:
     - course: MSc. Economics
       institution: UCL
       year: 2018
-    - course: BA Philosophoe and Economics
+    - course: BA Philosophy and Economics
       institution: UCL
       year: 2017
 
- Skills
+ ##Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+ #       percent: 80
+#        icon: python
+ #       icon_pack: fab
  #     - name: Data Science
  #       description: ''
  #       percent: 100
