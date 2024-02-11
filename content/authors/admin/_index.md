@@ -46,7 +46,7 @@ education:
       institution: UCL
       year: 2017
 
-Skills
+#Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
