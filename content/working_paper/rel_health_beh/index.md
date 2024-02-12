@@ -1,7 +1,7 @@
 ---
 title: "Self-(Employment) and Weak Institutions"
-authors: ''
-date: "2"
+authors: 'Daniel Sonnenstuhl'
+date: "2024-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
