@@ -27,21 +27,19 @@ tags:
 featured: false
 
 links:
-- name: Website
-  url: https://prime-re.github.io/
+- name: QJE
+  url: https://academic.oup.com/qje/article/139/1/187/7209918
+- name: NBER
+  url: https://www.nber.org/papers/w29010
+- name: Bibtex
+  link: denial.bib
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/PRIME-RE/prime-re.github.io
+  url: '#'
 - name: Custom Link
   url: http://example.org
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
