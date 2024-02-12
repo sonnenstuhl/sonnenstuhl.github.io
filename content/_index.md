@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
-    id: wp
+    id: wp1
     content:
       title: Research
       subtitle: Work in Progress
@@ -23,10 +23,10 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: pubs1
+    id: wp
     content:
       title: Research
-      subtitle: Publications
+      subtitle: Work in Progress
       filters:
         folders:
           - publication
