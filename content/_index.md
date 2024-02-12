@@ -18,7 +18,7 @@ sections:
       subtitle: Work in Progress
       filters:
         folders:
-          - projects
+          - publication
     design:
       columns: '2'
       view: compact
