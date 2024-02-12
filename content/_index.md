@@ -18,7 +18,7 @@ sections:
       subtitle: Working Papers
       filters:
         folders:
-          - publication
+          - working_paper
     design:
       columns: '2'
       view: compact
