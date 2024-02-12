@@ -18,11 +18,10 @@ sections:
       subtitle: Work in Progress
       filters:
         folders:
-          - working_paper
+          - projects
     design:
       columns: '2'
       view: compact
-
   - block: collection
     id: pubs
     content:
