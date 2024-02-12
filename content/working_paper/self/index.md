@@ -1,5 +1,5 @@
 ---
-title: "A Denial a Day Keeps the Doctor Away"
+title: "(Self-)Employment and Weak Institutions"
 authors:
 - with Abe Dunn
 date: "2024-02-01T00:00:00Z"
@@ -17,19 +17,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: Who bears the consequences of administrative problems in health care? We use data on repeated interactions between a large sample of U.S. physicians and many different insurers to document the complexity of health care billing, and estimate its economic costs for doctors and consequences for patients. Observing the back-and-forth sequences of claim denials and resubmissions for past visits, we can estimate physicians’ costs of haggling with insurers to collect payments. Combining these costs with the revenue never collected, we estimate that physicians lose 18% of Medicaid revenue to billing problems, compared with 4.7% for Medicare and 2.4% for commercial insurers. Identifying off of physician movers and practices that span state boundaries, we find that physicians respond to billing problems by refusing to accept Medicaid patients in states with more severe billing hurdles. These hurdles are quantitatively just as important as payment rates for explaining variation in physicians’ willingness to treat Medicaid patients. We conclude that administrative frictions have first-order costs for doctors, patients, and equality of access to health care. We quantify the potential economic gains—in terms of reduced public spending or increased access to physicians—if these frictions could be reduced and find them to be sizable.
+abstract: Many low-income countries suffer from limited contract enforcement and an ensuing
+low-trust environment. This can create labor market frictions by establishing mistrust
+between employers and employees. While consequences for  rms have been well es-
+tablished, this paper illuminates the consequences for the labor supply side. Drawing
+on original data from Nigeria, this paper shows that workers are concerned about an
+employer not honoring the work agreement and paying wage as agreed. This concern directly affects peoples' preferences and seems to make self-employment more attractive.
+Quantifying the degree of uncertainty with a choice experiment, this paper  nds that
+workers value a very high degree of certainty about correct wage payment equivalent
+to a 16.8% salary increase. Hence, this paper suggests that the inherently uncertain
+environment of low-income countries can have direct implications for workers and their
+choices when seeking employment.
 
 # Summary. An optional shortened abstract.
-summary: The Quarterly Jounral of Economics (2024)
+summary: This projects investigates the implications of weak institutions and no0n-enforceable contracts for the labor supply side. 
 
 
 featured: false
 
 links:
-- name: QJE
-  url: https://academic.oup.com/qje/article/139/1/187/7209918
-- name: NBER
-  url: https://www.nber.org/papers/w29010
+#- name: QJE
+#  url: https://academic.oup.com/qje/article/139/1/187/7209918
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

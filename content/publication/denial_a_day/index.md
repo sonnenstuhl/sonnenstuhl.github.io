@@ -34,8 +34,6 @@ links:
   icon_pack: fab
   name: Code
   url: '#'
-- name: Bibtex
-  url: https://sonnenstuhl.github.io/publication/denial_a_day/cite.bib
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
