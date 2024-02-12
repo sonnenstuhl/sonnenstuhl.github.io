@@ -1,5 +1,7 @@
 ---
 title: "(Self-)Employment and Weak Institutions"
+authors:
+- 'Daniel'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
