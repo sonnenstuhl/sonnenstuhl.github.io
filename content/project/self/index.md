@@ -6,7 +6,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2023-08-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
