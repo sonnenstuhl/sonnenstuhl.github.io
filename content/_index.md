@@ -22,7 +22,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: collection
     id: pubs
     content:
