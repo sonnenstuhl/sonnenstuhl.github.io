@@ -21,7 +21,7 @@ sections:
           - working_paper
     design:
       columns: '2'
-      view: list
+      view: compact
   - block: collection
     id: pubs
     content:
@@ -32,7 +32,7 @@ sections:
           - publication
     design:
       columns: '2'
-      view: list
+      view: compact
   - block: contact
     id: contact
     content:
