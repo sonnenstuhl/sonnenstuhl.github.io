@@ -35,7 +35,7 @@ links:
   name: Code
   url: '#'
 - name: Slides
-  link: denial_a_day.pdf
+  link: ../../../static/uploads/CV_Sonnenstuhl.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
