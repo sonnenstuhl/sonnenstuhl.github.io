@@ -1,9 +1,9 @@
 ---
 title: "Religion, Health, and Behavior: Evidence from Nigeria"
-authors:
-- ''
-date: ""
-doi: ""
+#authors:
+#- ''
+#date: ""
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: ""
