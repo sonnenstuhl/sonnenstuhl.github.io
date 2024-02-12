@@ -39,5 +39,10 @@ image:
 ---
 
 ## Abstract
-Medetomidine has become a popular choice for anesthetizing rats during long-lasting sessions of blood-oxygen-level dependent (BOLD) functional magnetic
+Many low-income countries suffer from limited contract enforcement and an ensuing low-trust environment. This can create labor market frictions by establishing mistrust
+between employers and employees. While consequences for firms have been well established, this paper illuminates the consequences for the labor supply side. Drawing
+on original data from Nigeria, this paper shows that workers are concerned about an employer not honoring the work agreement and paying wage as agreed. This concern directly 
+affects peoples' preferences and seems to make self-employment more attractive. Quantifying the degree of uncertainty with a choice experiment, this paper finds that
+workers value a very high degree of certainty about correct wage payment equivalent to a 16.8% salary increase. Hence, this paper suggests that the inherently uncertain
+environment of low-income countries can have direct implications for workers and their choices when seeking employment.
 
