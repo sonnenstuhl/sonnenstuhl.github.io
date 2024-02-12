@@ -39,25 +39,20 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please get in touch.
       # Contact (add or remove contact options as necessary)
       email: d.sonnenstuhl@uchicago.edu
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/sonnenstuhl'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 1307 East 60th Street
+        city: Chicago
+        region: IL
+        postcode: '60637'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        - 'Thursday 2:00pm to 3:00pm'
+        - 'Friday 9:30am to 10:30am'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
