@@ -34,7 +34,7 @@ links:
   icon_pack: fab
   name: Code
   url: '#'
-  - name: Bibtex
+- name: Bibtex
   url: https://sonnenstuhl.github.io/publication/denial_a_day/cite.bib
 
 # Featured image
