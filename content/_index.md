@@ -70,7 +70,7 @@ sections:
       view: compact
       columns: '2'
   - block: collection
-    id: featured
+    id: wp
     content:
       title: Working Papers
       filters:
@@ -81,6 +81,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: pubs
     content:
       title: Publications
       text: |-
