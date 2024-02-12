@@ -17,8 +17,7 @@ title: "Religion, Health, and Behavior: Evidence from Nigeria"
 publication: ""
 publication_short: ""
 
-abstract: Religion has influenced human lives for centuries. But despite its undeniable importance, we still lack systematic evidence on the implications of people’s real-life interactions with religious institutions. How does joining a church affect individuals’ lives? What are the specific impacts of different religious motifs? And what motivates individuals to join a church in the first place? Through a unique partnership with one of the largest Nigerian Pentecostal denominations we will address these questions and provide causal evidence on the impacts of religious engagement using the context of African Pentecostalism, one of the most remarkable phenomena of religious dynamism.
-
+abstract: Many low-income countries suffer from limited contract 
 
 # Summary. An optional shortened abstract.
 summary: This projects investigates the implications of weak institutions and 
@@ -36,6 +35,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
+
 
 ---
 
