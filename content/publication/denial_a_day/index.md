@@ -42,7 +42,7 @@ image:
   focal_point: ""
   preview_only: false
 
-
+slides: pent
 ---
 
 
