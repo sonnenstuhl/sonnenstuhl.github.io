@@ -11,7 +11,7 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+  - block: portfolio
     id: wp
     content:
       title: Research
@@ -20,7 +20,7 @@ sections:
         folders:
           - publication
     design:
-      columns: '1'
+      columns: '2'
       view: compact
   - block: collection
     id: pubs
@@ -31,7 +31,7 @@ sections:
         folders:
           - publication
     design:
-      columns: '1'
+      columns: '2'
       view: compact
   - block: portfolio
     id: projects
@@ -50,7 +50,7 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
