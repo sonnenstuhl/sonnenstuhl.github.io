@@ -34,7 +34,7 @@ links:
   icon_pack: fab
   name: Code
   url: '#'
-  - name: Slides
+- name: Slides
   link: denial_a_day.pdf
 
 # Featured image
