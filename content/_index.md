@@ -21,7 +21,7 @@ sections:
           - working_paper
     design:
       columns: '2'
-      view: compact
+      view: list
   - block: collection
     id: pubs
     content:
