@@ -35,7 +35,7 @@ links:
   name: Code
   url: '#'
 - name: Slides
-  link: https://sonnenstuhl.github.io/slides/pent/pentecostalism.pdf
+  url: https://sonnenstuhl.github.io/slides/pent/pentecostalism.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
