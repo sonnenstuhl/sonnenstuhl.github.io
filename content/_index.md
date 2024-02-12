@@ -23,6 +23,18 @@ sections:
       columns: '2'
       view: compact
   - block: collection
+    id: pubs1
+    content:
+      title: Research
+      subtitle: Publications
+      filters:
+        folders:
+          - publication
+    design:
+      columns: '2'
+      view: compact
+
+  - block: collection
     id: pubs
     content:
       title: Research
