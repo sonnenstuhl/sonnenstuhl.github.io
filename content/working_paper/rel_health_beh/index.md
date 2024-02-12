@@ -1,7 +1,8 @@
 ---
 title: "(Self-)Employment and Weak Institutions"
 authors:
-- 'Daniel'
+- Daniel
+date: "2024-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication: ""
 publication_short: ""
 
-abstract: Many low-income countries suffer from limited contract enforcement and an ensuing
-low-trust environment. This can create labor market frictions by establishing mistrust
-between employers and employees. While consequences for  rms have been well es-
-tablished, this paper illuminates the consequences for the labor supply side. Drawing
+abstract: Many low-income countries suffer from limited contract enforcement and an ensuing low-trust environment. This can create labor market frictions by establishing mistrust between employers and employees. While consequences for  rms have been well established, this paper illuminates the consequences for the labor supply side. Drawing
 on original data from Nigeria, this paper shows that workers are concerned about an
 employer not honoring the work agreement and paying wage as agreed. This concern di-
 rectly a ects peoples' preferences and seems to make self-employment more attractive.
@@ -35,9 +33,9 @@ summary: This project investigates the impact of weak institutions and non-enfor
 
 featured: false
 
-#links:
-#- name: QJE
-#  url: https://academic.oup.com/qje/article/139/1/187/7209918
+links:
+- name: QJE
+  url: https://academic.oup.com/qje/article/139/1/187/7209918
 #- name: NBER
 #  url: https://www.nber.org/papers/w29010
 
