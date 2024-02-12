@@ -14,8 +14,7 @@ sections:
   - block: collection
     id: pubs
     content:
-      title: Research
-      subtitle: Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -25,8 +24,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Research
-      subtitle: Work in Progress
+      title: Work in Progress
       filters:
         folders:
           - project
