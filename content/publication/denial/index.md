@@ -2,7 +2,7 @@
 title: "A Denial a Day Keeps the Doctor Away"
 authors:
 - with Abe Dunn, Josh Gottlieb, Adam Shapiro and Pietro Tebaldi
-date: "2019-04-07T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ links:
 - name: NBER
   url: https://www.nber.org/papers/w29010
 - name: Bibtex
-  link: denial.bib
+  link: publication/denial/denial.bib
 - icon: github
   icon_pack: fab
   name: Code
@@ -51,8 +51,5 @@ image:
 
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
