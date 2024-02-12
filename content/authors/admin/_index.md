@@ -1,28 +1,16 @@
 ---
-# Display name
-#title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Daniel J. Sonnenstuhl
-
-# Full name (for SEO)
-first_name: Daniel J.
-last_name: Sonnenstuhl
-
-# Status emoji
-status:
-  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
+name: Daniel J. Sonnenstuhl
 role: PhD Candidate
-
-# Organizations/Affiliations to show in About widget
 organizations:
+  - name: Harris School of Public Policy
+    url: https://harris.uchicago.edu
   - name: University of Chicago
-    url: https://www.stanford.edu/
+    url: https://www.uchicago.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
