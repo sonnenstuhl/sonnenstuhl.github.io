@@ -23,15 +23,11 @@ sections:
     design:
       columns: '2'
       view: card
-      subtitle: Publications
   - block: collection
     id: pubs
     content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Research
+      subtitle: Publications
       filters:
         folders:
           - publication
