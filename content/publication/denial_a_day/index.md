@@ -34,6 +34,8 @@ links:
   icon_pack: fab
   name: Code
   url: '#'
+  - name: Slides
+  link: denial_a_day.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -42,7 +44,7 @@ image:
   focal_point: ""
   preview_only: false
 
-slides: pent
+
 ---
 
 
