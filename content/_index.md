@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Daniel Sonnenstuhl
-date: 2022-10-24
+date: 2024-02-12
 type: landing
 
 sections:
@@ -15,7 +15,7 @@ sections:
     id: wp
     content:
       title: Research
-      subtitle: Working Papers
+      subtitle: Work in Progress
       filters:
         folders:
           - working_paper
