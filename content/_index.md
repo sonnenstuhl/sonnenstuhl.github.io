@@ -8,13 +8,14 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
     id: wp
     content:
-      title: Working Papers
+      title: Research
+      subtitle: Working Papers
       filters:
         folders:
           - publication
@@ -22,6 +23,7 @@ sections:
     design:
       columns: '2'
       view: card
+      subtitle: Publications
   - block: collection
     id: pubs
     content:
