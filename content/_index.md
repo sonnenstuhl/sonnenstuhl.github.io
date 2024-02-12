@@ -11,7 +11,7 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: portfolio
+  - block: collection
     id: wp
     content:
       title: Research
