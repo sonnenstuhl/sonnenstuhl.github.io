@@ -1,12 +1,8 @@
 ---
-# Full name
-first_name: Daniel J.
-last_name: Sonnenstuhl
-
-# Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
+name: Daniel J. Sonnenstuhl
 role: PhD Candidate
 organizations:
   - name: Harris School of Public Policy
