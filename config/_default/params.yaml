@@ -19,7 +19,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: Daniel Sonnenstuhl research 
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -27,7 +27,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'google-site-verification=hSHswqS_T0f4Xe8YmYmopGd7CciAm9yBVvz29KVRFPo'
     baidu: ''
 
 # Site header
@@ -114,4 +114,4 @@ extensions:
 
 security:
   # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+  allow_frame: false
