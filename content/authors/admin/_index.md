@@ -2,7 +2,7 @@
 superuser: true
 
 # Name pronunciation (optional)
-name_pronunciation: Daniel J Sonnenstuhl 
+#name_pronunciation: Daniel J Sonnenstuhl 
 
 # Role/position/tagline
 role: PhD Candidate
