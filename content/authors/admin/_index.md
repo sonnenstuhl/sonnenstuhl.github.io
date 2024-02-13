@@ -1,4 +1,7 @@
 ---
+# Full name
+first_name: Daniel J.
+last_name: Sonnenstuhl
 
 # Is this the primary user of the site?
 superuser: true
@@ -63,6 +66,7 @@ social:
 highlight_name: true
 ---
 
-Daniel Sonnenstuhl is a PhD Candidate at the University of Chicago, in the Harris School of Public Policy. 
+Daniel Sonnenstuhl is a PhD Candidate at the University of Chicago, in the Harris School of Public Policy. His research focuses on better understanding the 
+implications of low-income countries' institutions on people lives and the choices they make. 
 
 {style="text-align: justify;"}
