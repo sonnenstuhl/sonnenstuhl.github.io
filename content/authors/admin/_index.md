@@ -4,10 +4,6 @@ superuser: true
 # Name pronunciation (optional)
 name_pronunciation: Daniel J Sonnenstuhl 
 
-# Full name (for SEO)
-first_name: Daniel J
-last_name: Sonnenstuhl
-
 # Role/position/tagline
 role: PhD Candidate
 organizations:
@@ -15,7 +11,7 @@ organizations:
     url: https://harris.uchicago.edu
   - name: University of Chicago
     url: https://www.uchicago.edu
-
+name: Daniel J. Sonnenstuhl 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
