@@ -7,7 +7,6 @@ last_name: Sonnenstuhl
 superuser: true
 
 # Role/position/tagline
-name: Daniel J. Sonnenstuhl
 role: PhD Candidate
 organizations:
   - name: Harris School of Public Policy
