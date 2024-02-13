@@ -45,9 +45,6 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        ''
       # Contact (add or remove contact options as necessary)
       email: d.sonnenstuhl@uchicago.edu
       appointment_url: 'https://calendly.com/sonnenstuhl'
