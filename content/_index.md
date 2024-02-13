@@ -56,6 +56,7 @@ sections:
         country: United States
         country_code: US
       office_hours:
+        - 'Office Hours:'
         - 'Thursday 2:00pm to 3:00pm'
         - 'Friday 9:30am to 10:30am'
       # Automatically link email and phone or display as text?

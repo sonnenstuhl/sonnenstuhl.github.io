@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    email: d.sonnenstuhl@uchicago.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/dj_sunchair
