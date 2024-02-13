@@ -1,5 +1,9 @@
 ---
 superuser: true
+
+# Name pronunciation (optional)
+name_pronunciation: Daniel J Sonnenstuhl 
+
 # Full name (for SEO)
 first_name: Daniel J
 last_name: Sonnenstuhl
