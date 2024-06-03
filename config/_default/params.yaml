@@ -16,10 +16,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: 'Person'
     local_business_type: ''
-    org_name: Daniel Sonnenstuhl 
-    description: Daniel Sonnenstuhl research economics 
+    org_name: 'Daniel Sonnenstuhl'
+    description: 'Daniel Sonnenstuhl research economics'
     twitter: dj_sunchair
   analytics:
     google_analytics: ''
@@ -27,7 +27,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: google-site-verification=hSHswqS_T0f4Xe8YmYmopGd7CciAm9yBVvz29KVRFPo
+    google: 'google-site-verification=hSHswqS_T0f4Xe8YmYmopGd7CciAm9yBVvz29KVRFPo'
     baidu: ''
 
 # Site header
