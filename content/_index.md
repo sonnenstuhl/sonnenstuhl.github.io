@@ -47,7 +47,7 @@ sections:
       title: Contact
       # Contact (add or remove contact options as necessary)
       email: d.sonnenstuhl@uchicago.edu
-      appointment_url: 'https://calendly.com/sonnenstuhl'
+      #appointment_url: 'https://calendly.com/sonnenstuhl'
       address:
         street: 1307 East 60th Street
         city: Chicago
@@ -55,10 +55,10 @@ sections:
         postcode: '60637'
         country: United States
         country_code: US
-      office_hours:
-        - 'Office Hours:'
-        - 'Thursday 2:00pm to 3:00pm'
-        - 'Friday 9:30am to 10:30am'
+      #office_hours:
+       # - 'Office Hours:'
+       # - 'Thursday 2:00pm to 3:00pm'
+       #- 'Friday 9:30am to 10:30am'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
