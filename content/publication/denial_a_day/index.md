@@ -32,7 +32,7 @@ links:
   url: https://www.nber.org/papers/w29010
 - name: Code
   url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBWQU8
-name: Appendix
+- name: Appendix
   url: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/139/1/10.1093_qje_qjad035/1/qjad035_online_appendix.pdf
 #name: Download State Insurer Estimates
   #url: CIP_estimates
