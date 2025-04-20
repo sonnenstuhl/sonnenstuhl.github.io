@@ -1,6 +1,6 @@
 ---
-title: "(Self-)Employment and Weak Institutions"
-authors:
+title: "Employment, Productivity, and Weak Institutions: Experimental Evidence from Nigeria"
+authors: with Dauda Musa 
 - ''
 date: ""
 doi: ""
@@ -39,10 +39,11 @@ image:
 ---
 
 ## Abstract
-Many low-income countries suffer from limited contract enforcement and an ensuing low-trust environment. This can create labor market frictions by establishing mistrust
-between employers and employees. While consequences for firms have been well established, this paper illuminates the consequences for the labor supply side. Drawing
-on original data from Nigeria, this paper shows that workers are concerned about an employer not honoring the work agreement and paying wage as agreed. This concern directly 
-affects peoples' preferences and seems to make self-employment more attractive. Quantifying the degree of uncertainty with a choice experiment, this paper finds that
-workers value a very high degree of certainty about correct wage payment equivalent to a 16.8% salary increase. Hence, this paper suggests that the inherently uncertain
-environment of low-income countries can have direct implications for workers and their choices when seeking employment.
+Understanding how salary uncertainty affects worker behavior is essential for 
+assessing its broader economic consequences in settings where contract enforcement is weak.
+In this study, we investigate two central questions:
+(i) Does salary uncertainty, including delayed wage payments, affect employee behavior, such as 
+absenteeism, quit rates, and productivity? (ii) Does salary uncertainty deter 
+jobseekers from entering wage employment? We address these questions through original 
+survey data and two field experiments conducted in Lagos, Nigeria.
 
