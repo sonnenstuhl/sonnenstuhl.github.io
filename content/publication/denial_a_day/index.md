@@ -33,7 +33,7 @@ links:
 - name: Code
   url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBWQU8
 name: Appendix
-  url: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/139/1/10.1093_qje_qjad035/1/qjad035_online_appendix.pdf?Expires=1747331721&Signature=X0bWB4Y7ncR83fQ9CMWVJY0my9Bn9~WcWXtIWevCdzDTk12kIUF3xikuWuQq2AzMPrOpHTupQisF7E1aopa2gLJdaGJwYKET460EwajzVyC0Mbmyj6SLJsUvwo8HSwzx7hEaQApEMeai79PiqG1nh9aJxXi9S6ME~~DAdZDCSP8exVQNuVzwgrTv3~g71fFqMMjCR81P65qwXbDO49tzJRKXDfV7Aom6Z54Kq2p7VXwje65Bq81rLK0EWR6SCEQKDYvw7NFZuweXEx80DSMlstcUbAJXi6BwHQyqWUsulw1Tv03YehkRAuxB~Jg~necjZos9RcgE2SoW5xs91~EKVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  url: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/139/1/10.1093_qje_qjad035/1/qjad035_online_appendix.pdf
 #name: Download State Insurer Estimates
   #url: CIP_estimates
 
