@@ -27,10 +27,10 @@ education:
       institution: University of Chicago
       year: 2026 (expected)
     - course: MSc. Economics
-      institution: UCL
+      institution: University College London
       year: 2018
     - course: BA Philosophy and Economics
-      institution: UCL
+      institution: University College London
       year: 2017
 
 
@@ -62,7 +62,11 @@ social:
 highlight_name: true
 ---
 
-Daniel Sonnenstuhl is a PhD Candidate at the University of Chicago, in the Harris School of Public Policy. His research focuses on better understanding the 
-implications of low-income countries' institutions on people lives and the choices they make. 
+I am a PhD Candidate at the University of Chicago, in the Harris School of Public Policy. My research focuses on better understanding the 
+implications of low-income countries' institutions on peoples' lives, and the choices they make. At the moment, I am conducting all 
+My research in Nigeria. 
+
+You can find my CV [here](uploads/CV_Sonnenstuhl.pdf).
+
 
 {style="text-align: justify;"}
