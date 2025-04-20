@@ -1,7 +1,7 @@
 ---
 title: "Employment, Productivity, and Weak Institutions: Experimental Evidence from Nigeria"
-authors: with Dauda Musa 
-- ''
+authors: 
+- 'with Dauda Musa'
 date: ""
 doi: ""
 
