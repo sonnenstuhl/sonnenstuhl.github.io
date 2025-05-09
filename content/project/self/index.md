@@ -39,11 +39,5 @@ image:
 ---
 
 ## Abstract
-Understanding how salary uncertainty affects worker behavior is essential for 
-assessing its broader economic consequences in settings where contract enforcement is weak.
-In this study, we investigate two central questions:
-(i) Does salary uncertainty, including delayed wage payments, affect employee behavior, such as 
-absenteeism, quit rates, and productivity? (ii) Does salary uncertainty deter 
-jobseekers from entering wage employment? We address these questions through original 
-survey data and two field experiments conducted in Lagos, Nigeria.
+Consequences of weak institutions can profoundly shape economic activity. In many low-income countries, weak contract enforcement creates an economic environment where firms frequently fail to pay employees’ contractual salaries. This paper investigates how such frictions affect labor supply behavior. Using original survey data from Nigeria, we document that salary delays are a widespread experience among workers, causing pervasive concerns about employers not paying wages as agreed. We then present evidence from a field experiment in which we employ 300 workers for real data classification tasks in Lagos. Delaying salaries for a random subset of employees (who had been informed about this possibility as part of the job offer) does not reduce productivity; if anything, their productivity increases. This result is consistent with the idea that workers want to signal their value to the employer in the presence of uncertainty. Finally, a supplementary field experiment explores how payment uncertainty affects workers’ willingness to accept jobs. Job offers that credibly signal reliable salary payments significantly increase take-up rates. Strikingly, this effect is driven by individuals who initially reported not seeking employment, suggesting that payment uncertainty deters labor market participation among those with viable outside options.
 
