@@ -4,7 +4,7 @@ superuser: true
 title: Daniel J. Sonnenstuhl 
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 organizations:
   - name: Harris School of Public Policy
     url: https://harris.uchicago.edu
