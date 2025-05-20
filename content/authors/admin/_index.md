@@ -66,5 +66,4 @@ I am a PhD Candidate at the University of Chicago's Harris School of Public Poli
 
 You can find my CV [here](uploads/CV_Sonnenstuhl.pdf).
 
-<br>
 {style="text-align: justify;"}
