@@ -3,6 +3,11 @@ superuser: true
 
 title: Daniel J. Sonnenstuhl 
 
+avatar:
+  filename: "media/avatar.jpg"
+  focal_point: Top
+  shape: square
+
 # Role/position/tagline
 role: PhD Candidate
 organizations:
