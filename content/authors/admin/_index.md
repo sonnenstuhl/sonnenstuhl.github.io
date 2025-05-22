@@ -68,6 +68,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<div style="text-align: center;">
+  <img src="avatar.jpg" alt="Profile" style="width: 180px; height: 180px; border-radius: 0;">
+</div>
 
 I am a PhD Candidate at the University of Chicago's Harris School of Public Policy. My research explores how institutional environments in low-income countries shape economic behaviors and individual decision-making. Currently, my work is based in Nigeria, where I investigate the impact of weak formal institutions on labor markets—particularly through uncertainty around wage payments and failures in enforcing employment contracts. Additionally, I examine how informal institutions, especially religion, can foster cooperation and stability in settings where formal mechanisms are limited or ineffective. More broadly, I study religion itself as a significant social and economic institution influencing people’s lives.
 
