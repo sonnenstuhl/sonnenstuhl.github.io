@@ -3,10 +3,11 @@ superuser: true
 
 title: Daniel J. Sonnenstuhl 
 
-avatar:
-  filename: "media/avatar.jpg"
-  focal_point: Top
-  shape: square
+image:
+  placement: 1
+  focal_point: 'Center'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 
 # Role/position/tagline
 role: PhD Candidate
