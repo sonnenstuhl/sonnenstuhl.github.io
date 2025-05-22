@@ -12,8 +12,7 @@ appearance:
   font_size: L
   mode: light #system
 
-avatar:
-  shape: square
+custom_css: ["css/custom.css"]
 
 # SEO
 
