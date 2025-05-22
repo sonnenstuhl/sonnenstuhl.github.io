@@ -5,7 +5,8 @@ title: Daniel J. Sonnenstuhl
 
 image:
   placement: 1
-  focal_point: 'Center'
+  focal_point: Top
+  shape: square
   preview_only: false
   alt_text: An optional description of the image for screen readers.
 
