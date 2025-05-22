@@ -1,9 +1,0 @@
-img.avatar {
-  border-radius: 0 !important;     /* Removes circle crop */
-  object-fit: cover;
-  object-position: top;            /* Aligns image from top */
-}
-
-body {
-  background-color: yellow !important;
-}

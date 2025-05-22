@@ -12,10 +12,8 @@ appearance:
   font_size: L
   mode: light #system
 
-custom_css: ["css/custom.css"]
 
 # SEO
-
 marketing:
   seo:
     site_type: 'Person'
