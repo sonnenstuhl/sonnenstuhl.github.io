@@ -3,3 +3,7 @@ img.avatar {
   object-fit: cover;
   object-position: top;            /* Aligns image from top */
 }
+
+body {
+  background-color: yellow !important;
+}
