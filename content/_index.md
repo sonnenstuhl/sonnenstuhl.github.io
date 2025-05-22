@@ -4,13 +4,6 @@ title: Daniel Sonnenstuhl
 date: 2024-02-12
 type: landing
 
-image:
-  placement: 1
-  focal_point: Top
-  shape: square
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
-  
 sections:
   - block: about.biography
     id: about
