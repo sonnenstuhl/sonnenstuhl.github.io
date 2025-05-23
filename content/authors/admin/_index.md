@@ -76,7 +76,7 @@ img.avatar,
   height: 275px !important;
   object-fit: contain;
   object-position: center 20%      /* 👈 This is what you tweak */
-  transform: scale(1.05); 
+  transform: scale(0.5);
   display: block;
   margin-left: auto;
   margin-right: auto;
