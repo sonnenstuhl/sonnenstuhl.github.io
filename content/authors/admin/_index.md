@@ -72,10 +72,10 @@ highlight_name: true
 img.avatar,
 .avatar img {
   border-radius: 50% !important;       /* ✅ keep it round */
-  width: 265px !important;             /* 🔧 slightly larger */
-  height: 265px !important;
+  width: 275px !important;             /* 🔧 slightly larger */
+  height: 275px !important;
   object-fit: contain;
-  object-position: top;
+  object-position: center top;       /* 👈 This is what you tweak */
   display: block;
   margin-left: auto;
   margin-right: auto;
