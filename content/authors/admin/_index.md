@@ -70,11 +70,12 @@ highlight_name: true
 ---
 <style>
 .avatar img {
+  position: relative;
+  top: 10px;                          /* 👈 Push image down */
   width: 100% !important;
   height: 100% !important;
   object-fit: cover;
-  transform: scale(0.85) translateY(10%);
-  transform-origin: center;
+  border-radius: 50% !important;
 }
 </style>
 
