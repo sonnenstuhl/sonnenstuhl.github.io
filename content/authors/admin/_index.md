@@ -72,8 +72,8 @@ highlight_name: true
 img.avatar,
 .avatar img {
   border-radius: 50% !important;       /* ✅ keep it round */
-  width: 220px !important;             /* 🔧 slightly larger */
-  height: 220px !important;
+  width: 250px !important;             /* 🔧 slightly larger */
+  height: 250px !important;
   object-fit: cover;
   object-position: top;
   display: block;
