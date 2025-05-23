@@ -75,7 +75,7 @@ img.avatar,
   width: 275px !important;             /* 🔧 slightly larger */
   height: 275px !important;
   object-fit: contain;
-  object-position: center top;       /* 👈 This is what you tweak */
+  object-position: center 20%      /* 👈 This is what you tweak */
   display: block;
   margin-left: auto;
   margin-right: auto;
