@@ -74,7 +74,7 @@ img.avatar,
   border-radius: 50% !important;       /* ✅ keep it round */
   width: 265px !important;             /* 🔧 slightly larger */
   height: 265px !important;
-  object-fit: cover;
+  object-fit: contain;
   object-position: top;
   display: block;
   margin-left: auto;
