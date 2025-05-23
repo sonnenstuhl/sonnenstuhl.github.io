@@ -73,7 +73,7 @@ highlight_name: true
   width: 100% !important;
   height: 100% !important;
   object-fit: cover;
-  transform: scale(0.85) translateY(5%);
+  transform: scale(0.85) translateY(10%);
   transform-origin: center;
 }
 </style>
