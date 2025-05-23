@@ -71,11 +71,14 @@ highlight_name: true
 <style>
 img.avatar,
 .avatar img {
-  border-radius: 0 !important;
-  width: 200px !important;
-  height: 200px !important;
+  border-radius: 50% !important;       /* ✅ keep it round */
+  width: 220px !important;             /* 🔧 slightly larger */
+  height: 220px !important;
   object-fit: cover;
   object-position: top;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 
