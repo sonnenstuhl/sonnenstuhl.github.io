@@ -69,13 +69,17 @@ social:
 highlight_name: true
 ---
 <style>
+img.avatar,
 .avatar img {
-  position: relative;
-  top: 10px;                          /* 👈 Push image down */
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover;
-  border-radius: 50% !important;
+  border-radius: 50% !important;       /* ✅ keep it round */
+  width: 275px !important;             /* 🔧 slightly larger */
+  height: 275px !important;
+  object-fit: contain;
+  object-position: center 20%      /* 👈 This is what you tweak */
+  transform: scale(0.5);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 
