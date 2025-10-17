@@ -18,6 +18,9 @@ sections:
       filters:
         folders:
           - jmp
+    design:
+      columns: '2'
+      view: compact
   - block: collection
     id: pubs
     content:
