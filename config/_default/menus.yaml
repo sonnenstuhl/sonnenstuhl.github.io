@@ -16,3 +16,6 @@ main:
   - name: CV
     url: uploads/CV_Sonnenstuhl.pdf
     weight: 40
+  - name: Job Market Paper
+    url: uploads/sonnenstuhl_jmp.pdf
+    weight: 50
