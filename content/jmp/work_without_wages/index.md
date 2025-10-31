@@ -21,7 +21,8 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 summary: This projects studies weage withholding in Nigeria. 
 
-
+url: "https://sonnenstuhl.github.io/uploads/sonnenstuhl_jmp.pdf"   # 👈 makes the title clickable to the PDF
+url_pdf: "https://sonnenstuhl.github.io/uploads/sonnenstuhl_jmp.pdf"
 featured: false
 
 links:
