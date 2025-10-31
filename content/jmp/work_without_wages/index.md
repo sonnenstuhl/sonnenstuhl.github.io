@@ -1,5 +1,5 @@
 ---
-title: "Working Without Wages: The Consequences of Widespread Pay Delays"
+title: "Working Without Wages:<br>The Consequences of Widespread Pay Delays"
 authors: 
 - 'with Dauda Musa'
 date: ""
