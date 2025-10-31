@@ -17,6 +17,7 @@ publishDate: "2025-09-01T00:00:00Z"
 publication: ""
 publication_short: ""
 
+external_link: "https://sonnenstuhl.github.io/uploads/sonnenstuhl_jmp.pdf"
 
 # Summary. An optional shortened abstract.
 summary: This projects studies weage withholding in Nigeria. 
