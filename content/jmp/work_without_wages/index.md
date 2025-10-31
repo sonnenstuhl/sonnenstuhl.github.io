@@ -1,6 +1,5 @@
 ---
 title: "Working Without Wages: The Consequences of Widespread Pay Delays"
-linktitle: "Working Without Wages: The Consequences of Widespread Pay Delays"
 authors: 
 - 'with Dauda Musa'
 date: ""
@@ -22,8 +21,6 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 summary: This projects studies weage withholding in Nigeria. 
 
-url_pdf: "https://sonnenstuhl.github.io/uploads/sonnenstuhl_jmp.pdf"
-url_source: "https://sonnenstuhl.github.io/uploads/sonnenstuhl_jmp.pdf"
 featured: false
 
 links:
