@@ -2,7 +2,7 @@
 title: "Working Without Wages: The Consequences of Widespread Pay Delays"
 authors: 
 - 'with Dauda Musa'
-date: "2025-11-01"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
