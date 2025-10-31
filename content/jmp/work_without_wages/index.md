@@ -24,7 +24,7 @@ summary: This projects studies weage withholding in Nigeria.
 
 featured: false
 
-inks:
+links:
 - name: PDF
   url: https://sonnenstuhl.github.io/uploads/sonnenstuhl_jmp.pdf
 - name: Pre-Registration
