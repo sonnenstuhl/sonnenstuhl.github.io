@@ -24,9 +24,11 @@ summary: This projects studies weage withholding in Nigeria.
 
 featured: false
 
-links:
-#- name: QJE
-#  url: https://academic.oup.com/qje/article/139/1/187/7209918
+inks:
+- name: PDF
+  url: https://sonnenstuhl.github.io/uploads/sonnenstuhl_jmp.pdf
+- name: Pre-Registration
+  url: https://www.socialscienceregistry.org/trials/15132
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -39,20 +41,19 @@ image:
 ---
 
 ## Abstract
-In this paper, we study a rarely documented firm practice in low-income 
-countries that affects millions of workers and has far-reaching implications 
-for labor markets: the withholding of employees' wages. Using original survey 
-data from Lagos, Nigeria, we find that 30 percent of workers across firms of all 
-sizes report delayed or unpaid salaries. We develop a model showing theoretically 
-that wage withholding can be nearly costless for firms and even increase 
-employee effort when contractual enforcement is weak. To examine how wage withholding 
-affects workers' effort and labor-market participation, we implement a field experiment. 
-We find that delaying wages increases employees' initial 
+We study the widespread yet largely undocumented phenomenon of wage withholding in low-income countries.
+Using original survey data from Lagos, Nigeria, we document 
+that 30 percent of workers across firms of all sizes report delayed or unpaid salaries. 
+To examine how workers respond to wage withholding, we implement a 
+field experiment guided by a theoretical framework that illustrates the trade-offs they face.
+At the intensive margin, delaying wages increases employees' initial 
 effort, without affecting absenteeism or total hours worked.
-Signaling salary reliability significantly increases job take-up by about 25 
-percent, an effect driven predominantly by individuals who had initially 
-expressed no interest in wage employment. However, these workers are no more productive 
-than those who accepted jobs without a salary guarantee, suggesting that firms face minimal costs 
-from engaging in this practice. In contrast, workers place high value on 
-reliable pay, yet weak enforcement and limited worker alternatives create 
-a moral hazard for firms to withhold wages.
+At the extensive margin, wage uncertainty 
+induces worker selection: credibly signaling salary reliability increases job take-up by 25%
+Although this effect is driven by individuals who had initially expressed no interest 
+in wage employment, it does not attract more productive workers.
+Combining intensive- and 
+extensive margin estimates suggests that, in our setting, firms incur minimal productivity losses --- about 
+0.2% --- from engaging in wage withholding.
+This gives firms little incentive to refrain from the practice, despite workers 
+valuing reliable pay highly --- at over 30% of the monthly minimum wage.
