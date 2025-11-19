@@ -27,6 +27,9 @@ links:
   url: https://sonnenstuhl.github.io/uploads/sonnenstuhl_jmp.pdf
 - name: Pre-Registration
   url: https://www.socialscienceregistry.org/trials/15132
+- name: Worldbank Blog
+  url: https://blogs.worldbank.org/en/impactevaluations/why-would-employees-work-harder-when-firms-don-t-pay-their-wages
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
