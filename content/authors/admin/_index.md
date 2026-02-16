@@ -24,9 +24,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Development Economics 
+  - Experimental & Behavioral Economics 
   - Labor Economics 
-  - Experimental Economics 
-  - Political Economy 
+
 
 
 # Education to show in About widget
