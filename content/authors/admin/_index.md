@@ -26,6 +26,7 @@ interests:
   - Development Economics 
   - Experimental & Behavioral Economics 
   - Labor Economics 
+  - Political Economy
 
 
 
