@@ -19,7 +19,7 @@ organizations:
     url: https://www.uchicago.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Public Policy
+    - course: PhD Public Policy
       institution: University of Chicago
-      year: 2026 (expected)
+      year: 2026
     - course: MSc. Economics
       institution: University College London
       year: 2018
@@ -89,9 +89,8 @@ img.avatar,
 I am a PhD Candidate at the University of Chicago's Harris School of Public Policy. My research explores how institutional environments in low-income countries shape economic behaviors and individual decision-making. Currently, my work is based in Nigeria, where I investigate the impact of weak formal institutions on labor markets—particularly through uncertainty around wage payments and failures in enforcing employment contracts. Additionally, I examine how informal institutions, especially religion, can foster cooperation and stability in settings where formal mechanisms are limited or ineffective. More broadly, I study religion itself as a significant social and economic institution influencing people’s lives. 
 You can find my CV [here](uploads/CV_Sonnenstuhl.pdf).
 
-**I am on the 2025/26 job market.**
-
-
 [**Job Market Paper**](uploads/sonnenstuhl_jmp.pdf)
 <br>
 {style="text-align: justify;"}
+
+I will join Nclusion as a Research Economist in July 2026. 
